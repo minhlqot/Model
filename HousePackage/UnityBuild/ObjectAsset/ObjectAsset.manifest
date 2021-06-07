@@ -1,0 +1,22 @@
+ManifestFileVersion: 0
+CRC: 287561037
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: table
+      Dependencies: {}
+    Info_1:
+      Name: pan
+      Dependencies: {}
+    Info_2:
+      Name: 15 kookii cup 1
+      Dependencies: {}
+    Info_3:
+      Name: tablecirle
+      Dependencies: {}
+    Info_4:
+      Name: chair 29pivot
+      Dependencies: {}
+    Info_5:
+      Name: kego_1
+      Dependencies: {}

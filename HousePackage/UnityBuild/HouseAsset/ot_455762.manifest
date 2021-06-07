@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 1099497226
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 316b7377a290c9d010aeaf05d7469d4f
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 73be9529c660771824724b399f71d221
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 108
+  Script: {instanceID: 0}
+Assets:
+- Assets/PrefabsCreateTemp/HouseAlpha/HouseAsset/455762.prefab
+Dependencies: []
